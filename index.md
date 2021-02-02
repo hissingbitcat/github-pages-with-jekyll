@@ -1,6 +1,4 @@
-# Welcome to Sound of Satoshi
-
-weekly steganographic audio transmissions.
+# weekly steganographic audio transmissions.
 
 ste·ga·no·graph·y
 /ˌsteɡəˈnäɡrəfi/
